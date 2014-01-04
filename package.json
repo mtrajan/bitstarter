@@ -1,0 +1,23 @@
+{
+  "name": "bitstarter",
+  "version": "0.0.0",
+  "description": "bitstarter ==========",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mtrajan/bitstarter.git"
+  },
+  "author": "mtrajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtrajan/bitstarter/issues"
+  },
+  "homepage": "https://github.com/mtrajan/bitstarter",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.7"
+  }
+}
